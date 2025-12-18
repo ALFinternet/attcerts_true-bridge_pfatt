@@ -1,3 +1,8 @@
+FORKED FROM https://github.com/zombielinux/pfatt/tree/supplicant
+View supplicant branch!
+2025-12-17
+
+
 # About
 
 pfatt is a set of notes and scripts for setting up pfSense with AT&T U-Verse Fiber Internet. pfatt utilizes [netgraph](https://www.freebsd.org/cgi/man.cgi?netgraph(4)), which is a graph based kernel networking subsystem of FreeBSD to enable pfSense to fully manage the WAN address. This kernel-level solution was required to account for the unique issues surrounding bridging 802.1X traffic and/or transmitting 802.1Q Ethernet frames with the VLAN ID tag set to 0. pfatt does NOT enable theft of service, altering service speed or other malicious intent in any way.
