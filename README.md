@@ -1,6 +1,6 @@
-FORKED FROM https://github.com/zombielinux/pfatt/tree/supplicant(https://github.com/zombielinux/pfatt/tree/supplicant)
+FORKED FROM https://github.com/zombielinux/pfatt/tree/supplicant
 
-View supplicant(https://github.com/zombielinux/pfatt/tree/supplicant) branch!
+View [supplicant](https://github.com/ALFinternet/attcerts_true-bridge_pfatt/tree/supplicant) branch!
 
 2025-12-17
 
